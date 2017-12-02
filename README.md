@@ -8,3 +8,5 @@
 </div>
 <script src="js/socialButtonsWidget.js"></script>
 ```
+
+![sample](https://prnt.sc/hi7v85)
