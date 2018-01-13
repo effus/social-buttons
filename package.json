@@ -1,0 +1,14 @@
+{
+    "name": "js.socialbuttonswidget",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "uglifyjs socialButtons/src/socialButtonsWidget.js -o socialButtons/dist/socialButtonsWidget.min.js"
+    },
+    "author": "effus",
+    "license": "ISC",
+    "dependencies": {
+        "uglify-es": "github:mishoo/UglifyJS2#harmony"
+    }
+}
