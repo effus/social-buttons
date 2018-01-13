@@ -2,8 +2,8 @@
 /**
  * @author: effus (https://github.com/effus)
  * @version: 1.0.0
- * @license: https://github.com/effus/socialButtons/blob/master/LICENSE
- * @example: https://github.com/effus/socialButtons/blob/master/demo/sample.html
+ * @license: https://github.com/effus/social-buttons/blob/master/LICENSE
+ * @example: https://github.com/effus/social-buttons/blob/master/demo/sample.html
  */
 (function() {
     var socialButtonsWidget = {
